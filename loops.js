@@ -13,4 +13,5 @@ function whileLoop(x) {
   while (x <= 0) {
     console.log("The value of the number is: " + x)
   }
+  return 'done'
 }
